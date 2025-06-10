@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ALBERT-CODE63
+- 👋 Hi, I’m @ALBERT-RAY-MUKIIRA
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning network enumeration among other cybersecurity modules
 - 💞️ I’m looking to collaborate on various IT projects
